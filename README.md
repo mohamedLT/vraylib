@@ -1,14 +1,16 @@
-# vraylib
+# Vraylib
 a v wrapper for the awesome raylib library
-# platforms
+# Platforms
 it works on every 64bit platform if your platform does not work please contact me to help fix it or add it 
-# android!!
+# Android!!
 for now you can use `v -keepcc ` when you compile and follow the raylib wiki on how to compile for android just use the generated c file as src code
+
 I am planning on making vab works with it so for the time been try to not break your pc while compiling it yourself 
+
 one thing I can assure you is that it works and it worked for me so it will work for you 
-# install 
+# Install 
 `v install mohamedLT.vraylib`
-# example 
+# Example 
 ```
 module main
 
