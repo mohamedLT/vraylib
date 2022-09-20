@@ -1,4 +1,4 @@
-module raylib
+module vraylib
 
 import math
 
